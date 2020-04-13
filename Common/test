@@ -1,0 +1,19 @@
+class A:
+#     def __init__(self,name):
+#         self.name=name
+#
+#     def method(self):
+#         res1 = {"data": 123}
+#         return res1['data']
+# class B(A): #类的继承
+#     def __init__(self,name,age):
+#         A.__init__(self,name)
+#         self.age=age
+#
+#     def method_b(self):
+#         print(self.name,self.age)
+#         print(A.method(self))
+#         print(super().method())
+# LINE=B("AJ",18)
+# LINE.method_b()
+# print(LINE.method())
